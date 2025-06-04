@@ -6,7 +6,8 @@ const wheelImg = document.querySelector('.wheel-img');
 const dateIdeas = [
   "Movie Night", "Cooking Together", "Minecraft", "YouTube",
   "Virtual Shopping", "Card Games", "Wavelength",
-  "Would You Rather", "Scribbl.io", "20 Questions"
+  "Would You Rather", "Scribbl.io", "20 Questions", "Racing Games", 
+  "Make a Playlist", "Digital Scrapbook","Couple's Quiz"
 ];
 
 let isSpinning = false;
